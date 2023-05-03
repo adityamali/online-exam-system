@@ -3,7 +3,13 @@ Online Examination System built using Reactjs, Nodejs, Expressjs and MySQL
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the Project directory, you can run:
+
+### `node server/index.js`
+
+This will start the node server.
+
+In the frontend directory, you can run:
 
 ### `npm start`
 
